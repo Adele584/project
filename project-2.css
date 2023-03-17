@@ -1,0 +1,160 @@
+/**********************************TAG SELECTORS****************************************/
+body {
+  font-family: 'Lato', sans-serif;
+  margin: auto;
+}
+
+p {
+  color: #757688;
+}
+
+hr {
+  background-color: #2e2d3f;
+}
+
+/************************************CLASS SELECTORS************************************/
+.Bright {
+  font-weight: 700;
+  color: #04021b;
+  float: left;
+  margin-right: 70px;
+  width: 20%;
+}
+
+.bright-class {
+  margin-bottom: 75px;
+  margin-top: 30px;
+  margin-left: 7%;
+}
+
+.button {
+  background-color: #f15d51;
+  border: 0px solid;
+  padding: 7px 19px;
+  letter-spacing: 3px;
+  font-size: 13px;
+  font-weight: 500;
+  color: white;
+  margin-top: 13px;
+}
+
+.button:hover {
+  background-color: #010018;
+  text-decoration: none;
+  color: white;
+}
+
+.bottom-image-1 {
+  float: left;
+  margin-right: 20px;
+  width: 26%;
+}
+
+.bottom-image-2 {
+  float: left;
+  margin-right: 20px;
+  width: 33%;
+}
+
+.bottom-image-3 {
+  float: left;
+  margin-right: 20px;
+  width: 29%;
+}
+
+.inner-item {
+  width: 105%;
+}
+
+.a {
+  width: 85%;
+}
+
+.first-img {
+  width: 60%;
+  padding-top: 30px;
+  margin-left: 7%;
+}
+
+.features {
+  color: #2e2d3f;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.features:hover {
+  text-decoration: none;
+  color: #f09d90;
+}
+
+.new {
+  color: #a27543;
+  margin-bottom: 20px;
+  font-weight: 700;
+}
+
+.products {
+  display: block;
+  background-color: #00001a;
+  width: 23%;
+  line-height: 25px;
+  margin-left: 69%;
+  padding-bottom: 2.4%;
+  padding-top: 2%;
+  position: absolute;
+  top: 24%;
+}
+
+.products-item {
+  margin-left: 20px;
+  margin-right: 15px;
+  padding-top: 5px;
+  font-size: 14px;
+}
+
+.container-link {
+  text-decoration: none;
+  color: white;
+  font-weight: 700;
+  line-height: 50px;
+  font-size: 16px;
+}
+
+.container-link:hover {
+  color: #a27543;
+  text-decoration: none;
+}
+
+.container-top {
+  padding-bottom: 25px;
+  padding-top: 40px;
+  margin-left: 7%;
+}
+
+.grid-container {
+  padding-bottom: 3%;
+  font-size: 14px;
+  padding-left: 8%;
+  gap: 5%;
+  line-height: 25px;
+}
+
+.top-link {
+  display: inline;
+  color: #adacb2;
+  margin-right: 20px;
+  font-size: 15px;
+}
+
+.top-link:hover {
+  color: #f09d90;
+  text-decoration: none;
+}
+
+.num {
+  color: #adacb2;
+}
+
+.svg {
+  margin-right: 655px;
+}
